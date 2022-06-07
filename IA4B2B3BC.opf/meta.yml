@@ -1,0 +1,27 @@
+id: IA4B2B3BC
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-25T15:42:59+00:00'
+last_modified: '2022-06-07T21:36:37.453109+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W2PD17643
+  title: 'འཛམ་གླིང་ཤར་ནུབ་ཀྱི་གནའ་དེང་རིག་པའི་རྣམ་གཞག་མདོ་ཙམ་བརྗོད་པ། '
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  base:
+    E34C:
+      image_group_id: I4PD4649
+      title: ''
+      total_pages: 244
+      order: 1
+      base_file: E34C.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
